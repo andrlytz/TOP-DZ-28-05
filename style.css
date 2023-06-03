@@ -1,0 +1,23 @@
+section {
+    width: 1000px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+.items {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px 0 0 0;
+}
+
+button {
+    border: none;
+    background-color: #fff;
+}
+
+button:hover {
+    outline: 2px solid rgba(0, 0, 0, 0.419);
+}
+
+
+
